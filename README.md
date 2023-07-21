@@ -1,8 +1,6 @@
 # Fairly
 
-Fairly is a SaaS platform enabling talent acquisition teams to quickly find and hire high quality diverse talent for their company. I worked on the reforation of the side nav bar as well as changing the curently logged in users "userId" to say "organizationId" which shows what organization the member whos logged in belongs to. I also made an few tables and stored procedures to show which social media links are associated with the user and some forms that allow you to add, edit and delete a link.
-
-My role as a software engineer was to implement the functionality of the administrator dashboard. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
+Fairly is a SaaS platform enabling talent acquisition teams to quickly find and hire high quality diverse talent for their company. I worked on the reforation of the side nav bar as well as changing the curently logged in users "userId" to say "organizationId" which shows what organization the member whos logged in belongs to. I also made an few tables and stored procedures to show which social media links are associated with the user and some forms that allow you to add, edit and delete a link. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
 ● Developed and structured the administrator dashboard functionality from front-end to back-end.
 
